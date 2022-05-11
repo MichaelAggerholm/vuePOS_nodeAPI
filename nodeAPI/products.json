@@ -1,0 +1,152 @@
+[
+    {
+        "ProductId": 1,
+        "title": "Banan",
+        "price": 2.5,
+        "category": "fruit"
+    },
+    {
+        "ProductId": 2,
+        "title": "Øko banan",
+        "price": 7,
+        "category": "fruit"
+    },
+    {
+        "ProductId": 3,
+        "title": "Pære",
+        "price": 2.5,
+        "category": "fruit"
+    },
+    {
+        "ProductId": 4,
+        "title": "Clementin",
+        "price": 2.5,
+        "category": "fruit"
+    },
+    {
+        "ProductId": 5,
+        "title": "Æble",
+        "price": 2.5,
+        "category": "fruit"
+    },
+    {
+        "ProductId": 6,
+        "title": "Citron",
+        "price": 7,
+        "category": "fruit"
+    },
+    {
+        "ProductId": 7,
+        "title": "Kiwi",
+        "price": 3,
+        "category": "fruit"
+    },
+    {
+        "ProductId": 8,
+        "title": "Blomme",
+        "price": 2,
+        "category": "fruit"
+    },
+    {
+        "ProductId": 9,
+        "title": "Nektarin",
+        "price": 2,
+        "category": "fruit"
+    },
+    {
+        "ProductId": 10,
+        "title": "Danskvand",
+        "price": 2,
+        "category": "beverage"
+    },
+    {
+        "ProductId": 11,
+        "title": "Pepsi max",
+        "price": 16,
+        "category": "beverage"
+    },
+    {
+        "ProductId": 12,
+        "title": "Kildevand",
+        "price": 1,
+        "category": "beverage"
+    },
+    {
+        "ProductId": 13,
+        "title": "Coca cola",
+        "price": 19,
+        "category": "beverage"
+    },
+    {
+        "ProductId": 14,
+        "title": "Appelsin juice",
+        "price": 12,
+        "category": "beverage"
+    },
+    {
+        "ProductId": 15,
+        "title": "Æble juice",
+        "price": 12,
+        "category": "beverage"
+    },
+    {
+        "ProductId": 16,
+        "title": "Saftevand",
+        "price": 8,
+        "category": "beverage"
+    },
+    {
+        "ProductId": 17,
+        "title": "Solbærdrik",
+        "price": 16,
+        "category": "beverage"
+    },
+    {
+        "ProductId": 18,
+        "title": "Hakket oksekød",
+        "price": 42,
+        "category": "food"
+    },
+    {
+        "ProductId": 19,
+        "title": "Fiskedeller",
+        "price": 20,
+        "category": "food"
+    },
+    {
+        "ProductId": 20,
+        "title": "Kyllingebryst",
+        "price": 36,
+        "category": "food"
+    },
+    {
+        "ProductId": 21,
+        "title": "Ribeye Steak",
+        "price": 59,
+        "category": "food"
+    },
+    {
+        "ProductId": 22,
+        "title": "Grillbøffer",
+        "price": 29,
+        "category": "food"
+    },
+    {
+        "ProductId": 23,
+        "title": "Medister",
+        "price": 29,
+        "category": "food"
+    },
+    {
+        "ProductId": 24,
+        "title": "Mørbrad",
+        "price": 68,
+        "category": "food"
+    },
+    {
+        "ProductId": 25,
+        "title": "Koteletter",
+        "price": 37,
+        "category": "food"
+    }
+]
